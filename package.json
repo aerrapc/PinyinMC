@@ -1,7 +1,7 @@
 {
   "name": "@aerrapc/PinyinMC",
-  "version": "0.1",
+  "version": "0.1.0",
   "dependencies": {
-    "my-package-name": "github:KensioSoftware/pinyinjs"
+    "@kensio/pinyinjs": "1.8.0"
   }
 }
