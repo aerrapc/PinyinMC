@@ -1,7 +1,8 @@
 {
   "name": "@aerrapc/PinyinMC",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "devDependencies": {
-    "@kensio/pinyinjs": "1.8.0"
+    "@aerrapc/JSON-to-Pinyin": "1.0.0",
+    "@InventivetalentDev/minecraft-assets": "^1.26.3"
   }
 }
